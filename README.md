@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
-![MasterHead](https://media0.giphy.com/media/JrZHAQT0CxmkPWj9LZ/giphy.gif?cid=ecf05e47rmkhix1y95ktdruvivdetq8kszncbq7cwxlhr7d4&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Sujith Joseph</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p>
+<!--<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-sunny&show_icons=true&theme=dark&locale=en&layout=compact" alt="sujith-sunny" />
 </p>
 
@@ -74,4 +74,24 @@ Here are some ideas to get you started:
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith-sunny&theme=dark" alt="sujith-sunny" />
+</p>-->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sujith-sunny&show_icons=true&theme=dark&locale=en" alt="sujith-sunny" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith-sunny&theme=dark" alt="sujith-sunny" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-sunny&show_icons=true&theme=dark&locale=en&layout=compact" alt="sujith-sunny" />
+</p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujith-sunny" alt="sujith-sunny" /></a>
+</p>
+
+<!--This is the code for the most visited github repos-->
+<!--<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  </a>
+  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  </a>
+</p>-->
