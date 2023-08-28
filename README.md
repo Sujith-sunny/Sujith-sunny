@@ -25,18 +25,27 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Python, DevOps, AWS**
+- 💬 Ask me about **Jenkins, AWS, Python, DevOps**
 
 - 📫 How to reach me **nsjr2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/sujith07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sujith07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nosina sujith joseph ratnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nosina sujith joseph ratnam" height="30" width="40" /></a>
+<a href="https://instagram.com/sujith_sunny11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujith_sunny11" height="30" width="40" /></a>
+<a href="https://dribbble.com/sujithsunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sujithsunny" height="30" width="40" /></a>
+<a href="https://medium.com/@nsjr2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nsjr2002" height="30" width="40" /></a>
+</p>
+
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sujith07" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/codepen.svg" alt="sujith07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nosina sujith joseph ratnam" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/linkedin.svg" alt="nosina sujith joseph ratnam" height="30" width="40" /></a>
 <a href="https://instagram.com/sujith_sunny11" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/instagram.svg" alt="sujith_sunny11" height="30" width="40" /></a>
 <a href="https://dribbble.com/sujithsunny" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/dribbble.svg" alt="sujithsunny" height="30" width="40" /></a>
 <a href="https://medium.com/@nsjr2002" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/medium.svg" alt="@nsjr2002" height="30" width="40" /></a>
-</p>
+</p>-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -60,27 +69,22 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<!--<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-sunny&show_icons=true&theme=dark&locale=en&layout=compact" alt="sujith-sunny" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-sunny&show_icons=true&locale=en&layout=compact" alt="sujith-sunny" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujith-sunny&show_icons=true&theme=dark&locale=en" alt="sujith-sunny" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujith-sunny&show_icons=true&locale=en" alt="sujith-sunny" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith-sunny&theme=dark" alt="sujith-sunny" />
-</p>-->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sujith-sunny&show_icons=true&theme=dark&locale=en" alt="sujith-sunny" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith-sunny&theme=dark" alt="sujith-sunny" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith-sunny" alt="sujith-sunny" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-sunny&show_icons=true&theme=dark&locale=en&layout=compact" alt="sujith-sunny" />
-</p>
-<p align="left">
+
+
+<!--<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujith-sunny" alt="sujith-sunny" /></a>
-</p>
+</p> -->
 
 <!--This is the code for the most visited github repos-->
 <!--<p>
