@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codepen.io/sujith07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sujith07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nosina sujith joseph ratnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nosina sujith joseph ratnam" height="30" width="40" /></a>
-<a href="https://instagram.com/sujith_sunny11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujith_sunny11" height="30" width="40" /></a>
+<a href="https://instagram.com/sujith_sunny11" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/instagram.svg)" alt="sujith_sunny11" height="30" width="40" /></a>
 <a href="https://dribbble.com/sujithsunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sujithsunny" height="30" width="40" /></a>
 <a href="https://medium.com/@nsjr2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nsjr2002" height="30" width="40" /></a>
 </p>
