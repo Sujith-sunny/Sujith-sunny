@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-sunny" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **Python, DevOps, AWS**
 
