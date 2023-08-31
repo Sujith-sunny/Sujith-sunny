@@ -72,12 +72,13 @@ Here are some ideas to get you started:
 
 <p>
   <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-sunny&show_icons=true&locale=en&layout=compact" alt="sujith-sunny" />-->
-  <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujith-sunny&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="left" height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujith-sunny&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujith-sunny&show_icons=true&locale=en&theme=dracula" alt="sujith-sunny" />
 </p>
 
-<p>&nbsp;
+<!--<p>&nbsp;
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujith-sunny&show_icons=true&locale=en" alt="sujith-sunny" />
-</p>
+</p>-->
 
 <!--<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith-sunny" alt="sujith-sunny" />
