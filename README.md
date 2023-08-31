@@ -70,16 +70,15 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p>
-  <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-sunny&show_icons=true&locale=en&layout=compact" alt="sujith-sunny" />-->
+| <a href="https://github.com/Sujith-sunny/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujith-sunny&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujith's github stats" /></a> | <a href="https://github.com/Sujith-sunny/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujith-sunny&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!--<p>
+  <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-sunny&show_icons=true&locale=en&layout=compact" alt="sujith-sunny" />
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujith-sunny&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujith-sunny&show_icons=true&locale=en&theme=dracula" alt="sujith-sunny" />
-</p>
-
-<!--<p>&nbsp;
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujith-sunny&show_icons=true&locale=en" alt="sujith-sunny" />
 </p>-->
-
+  
 <!--<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith-sunny" alt="sujith-sunny" />
 </p>-->
