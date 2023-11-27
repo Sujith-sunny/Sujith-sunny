@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
 ![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Sujith Joseph</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Techy from India</h3>
 <<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <!--<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47xwnchfqm5i5yvbe1egro91adie5eas1onq7ewkc1&ep=v1_gifs_search&rid=giphy.gif&ct=g">-->
 <p align="left"> 
