@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
-![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![MasterHead](./Assests/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sujith Joseph</h1>
 <h3 align="center">Engineer from India</h3>
 <<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=sujith-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-sunny" /> 
 </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Selenium**
 
 - 💬 Ask me about **Jenkins, AWS, Python, DevOps**
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sujith-sunny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujith-sunny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
