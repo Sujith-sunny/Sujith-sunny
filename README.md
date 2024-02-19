@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@nsjr2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nsjr2002" height="30" width="40" /></a>
 </p>
 
-<p>--------------------------</p>
+<p>-------------------------------</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
