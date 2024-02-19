@@ -90,10 +90,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sujith-sunny/Sujith-sunny/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--| <a href="https://github.com/Sujith-sunny/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujith-sunny&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujith's github stats" /></a> | -->
 <!--<a href="https://github.com/Sujith-sunny/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujith-sunny&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |-->
