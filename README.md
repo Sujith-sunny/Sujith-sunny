@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![MasterHead](./Assets/banner.png)
 <h1 align="center">Hi 👋, I'm Sujith Joseph</h1>
 <h3 align="center">Engineer from India</h3>
-<img align="right" alt="Coding" width="350" src="./Assets/SVKl.gif">
+<img align="right" alt="Coding" width="300" src="./Assets/SVKl.gif">
 <!--<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47xwnchfqm5i5yvbe1egro91adie5eas1onq7ewkc1&ep=v1_gifs_search&rid=giphy.gif&ct=g">-->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sujith-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-sunny" /> 
