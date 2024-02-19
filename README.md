@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
-![MasterHead](./Assests/banner.jpg)
+![MasterHead](./Assets/banner.png)
 <h1 align="center">Hi 👋, I'm Sujith Joseph</h1>
 <h3 align="center">Engineer from India</h3>
 <<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
