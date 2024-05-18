@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sujith Joseph</h1>
 <h3 align="center">Engineer from India</h3>
 <!-- this is the Daily.dev card -->
-<a href="https://app.daily.dev/sujith_sunny"><img src="https://api.daily.dev/devcards/v2/ZmyyffebKFB38EqMOVDr4.png?type=default&r=2zm" width="356" alt="Sujith's Dev Card"/></a>
+<a href="https://app.daily.dev/sujith_sunny"><img align = "right" src="https://api.daily.dev/devcards/v2/ZmyyffebKFB38EqMOVDr4.png?type=default&r=2zm" width="356" alt="Sujith's Dev Card"/></a>
 <p align="left"> <!--This is the profile count meter-->
   <img src="https://komarev.com/ghpvc/?username=sujith-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-sunny" />
 </p>
