@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="300" src="./Assets/SVKl.gif">
 <!--<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47xwnchfqm5i5yvbe1egro91adie5eas1onq7ewkc1&ep=v1_gifs_search&rid=giphy.gif&ct=g">-->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sujith-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-sunny" /> 
+  <a href="https://app.daily.dev/sujith_sunny"><img src="https://api.daily.dev/devcards/v2/ZmyyffebKFB38EqMOVDr4.png?type=default&r=2zm" width="356" alt="Sujith's Dev Card"/></a>
+  <!--<img src="https://komarev.com/ghpvc/?username=sujith-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-sunny" /> -->
 </p>
 
 - 🌱 I’m currently learning **Selenium**
