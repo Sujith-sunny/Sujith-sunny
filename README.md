@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-![MasterHead](./Assets/banner.png)
+<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](./Assets/banner.png)-->
 <h1 align="center">Hi 👋, I'm Sujith Joseph</h1>
 <h3 align="center">Engineer from India</h3>
 <!-- this is the Daily.dev card -->
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=sujith-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-sunny" />
 </p>
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Jenkins, AWS, Python, DevOps**
+- 💬 Ask me about **API Development(FastAPI), UI/UX Designing **
 
 - 📫 How to reach me **nsjr2002@gmail.com**
 
