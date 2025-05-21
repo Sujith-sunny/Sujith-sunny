@@ -1,7 +1,19 @@
 Hi, I'm Sujith 👋🏾 
 
 <img src="./Assets/banner_main.png" alt="banner that says Sujith Joseph - software developer, designer and compitetive gamer alongside a cartoon illustration of sujith">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include API Development (FastAPI), UX Designing and Flutter.
+
+👋 Hi, I’m a Python developer and UI/UX designer who bridges clean code with clean design.
+
+🚀 Creator of debugonce, a python package built to simplify debugging by capturing and replaying function calls with context <https://pypi.org/project/debugonce> <!-- — because clarity matters in both code and design :)-->
+
+🔧 I craft developer tools and intuitive user experiences, aiming to make both backends efficient and frontends effortless.
+
+📦 Skilled in Python · FastAPI · Figma · GitLab · UX Flows· App Development
+
+🎯 Currently exploring self-hosted AI agents, internal platforms, and smarter ways to streamline the developer experience.
+
+📫 Reach me: nsjr2002@gmail.com
+<!--I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include API Development (FastAPI), UX Designing and Flutter.-->
 
 
 <h3 align="left">Connect with me:</h3>
